@@ -1,3 +1,9 @@
+ # File: brtns.sh 
+ # Author: Zhang Xijin(mfs6174)
+ # Email: mfs6174@gmail.com
+ #
+ # Copyright (C) 2011 Zhang Xijin(mfs6174)
+
 #!/bin/bash
 blfile0=/sys/class/backlight/acpi_video0/brightness
 blfile1=/sys/class/backlight/acpi_video1/brightness

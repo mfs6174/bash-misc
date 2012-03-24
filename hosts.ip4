@@ -3,6 +3,8 @@
 127.0.1.1	mfsA42J
 210.27.11.89 acm
 219.245.77.144 hpc
+202.117.120.246 ftp.xdlinux.info
+192.168.1.1 router
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
 fe00::0 ip6-localnet

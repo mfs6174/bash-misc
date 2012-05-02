@@ -2,7 +2,7 @@
 ::1	localhost6.localdomain6	localhost6
 127.0.1.1	mfsA42J
 210.27.11.89 acm
-219.245.77.144 hpc
+219.245.77.178 hpc
 202.117.120.246 linux4
 2001:250:1006:1208::246 linux6
 202.117.120.247 acm4
@@ -18,6 +18,7 @@ ff02::3 ip6-allhosts
 2404:6800:8002::8d mfstuidao.appspot.com
 2404:6800:8002::8d mfsdaili.appspot.com
 2404:6800:8002::8d mfstuiter.appspot.com
+2404:6800:8002::8d mfs6174-blog.appspot.com
 2404:6800:8005::84 www-ig-opensocial.googleusercontent.com
 2404:6800:8005::52 gtap.googlecode.com
 2404:6800:8005::52 appengine.googlecode.com
@@ -515,7 +516,7 @@ ff02::3 ip6-allhosts
 2404:6800:8005::bd chatenabled.mail.google.com #Gmail 中 Gtalk 聊天服务
 2404:6800:8005::bd filetransferenabled.mail.google.com #可能会造成 GTalk 客户端异常
 2404:6800:8005::bd b.googlemail.l.google.com
-#2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
+2404:6800:8005::62 talk.gmail.com #Gmail中Gtalk聊天服务
 2404:6800:8005::64 gmail.google.com
 2404:6800:8005::11 www.gmail.com
 2404:6800:8005::11 gmail.com
@@ -777,12 +778,12 @@ ff02::3 ip6-allhosts
 #2404:6800:8005::62 www.googlestore.com
 
 #Google Talk/Chat 聊天
-#2404:6800:8005::7d talk.google.com
+2404:6800:8005::7d talk.google.com
 #2404:6800:8005::7d talk.l.google.com
-#2404:6800:8005::62 default.talk.google.com
+2404:6800:8005::62 default.talk.google.com
 2404:6800:8005::62 talkgadget.google.com
-#2404:6800:8005::62 rtmp0.google.com
-#2404:6800:8005::62 users.talk.google.com
+2404:6800:8005::62 rtmp0.google.com
+2404:6800:8005::62 users.talk.google.com
 
 #Tools 工具
 2404:6800:8005::66 tools.google.com

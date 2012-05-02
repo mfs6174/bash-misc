@@ -5,6 +5,7 @@
 219.245.77.144 hpc
 202.117.120.246 ftp.xdlinux.info
 192.168.1.1 router
+192.168.1.1 router1
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
 fe00::0 ip6-localnet

@@ -7,6 +7,8 @@
 2001:250:1006:1208::246 linux6
 202.117.120.247 acm4
 192.168.1.1 router
+192.168.1.1 router1
+
 # The following lines are desirable for IPv6 capable hosts
 ::1     localhost ip6-localhost ip6-loopback
 fe00::0 ip6-localnet

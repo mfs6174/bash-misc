@@ -217,7 +217,7 @@ ff02::3 ip6-allhosts
 
 #Web 网页
 2404:6800:8005::68 www.google.com #主/登录域名，GTalk 客户端用户需注释此条，参见 Issue 11
-2404:6800:8005::68 encrypted.google.com
+2001:4860:400a:800::100e encrypted.google.com
 2404:6800:8005::68 www.l.google.com
 2404:6800:8005::62 www0.l.google.com
 2404:6800:8005::62 www1.l.google.com

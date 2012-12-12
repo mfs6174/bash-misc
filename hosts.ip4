@@ -15,11 +15,11 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-209.85.148.141 mfstuiter.appspot.com
+74.125.31.141 mfstuiter.appspot.com
 184.73.161.164 foursquare.com
-209.85.148.141  mfstuidao.appspot.com
-209.85.148.141  mfsdaili.appspot.com
-209.85.148.141  kaesire.appspot.com
+74.125.31.141  mfstuidao.appspot.com
+74.125.31.141  mfsdaili.appspot.com
+74.125.31.141  kaesire.appspot.com
 209.85.148.132 mail-attachment.googleusercontent.com
 202.183.138.152 www.google.com
 58.27.108.175 accounts.google.com

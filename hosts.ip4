@@ -90,8 +90,11 @@ ff02::3 ip6-allhosts
 74.125.237.5	services.google.com
 74.125.237.5	reader.google.com
 74.125.237.5	sites.google.com
-74.125.237.5	talkgadget.google.com
-74.125.237.5	talkx.l.google.com
+
+74.125.235.36	talkgadget.google.com
+74.125.135.125 talkx.l.google.com
+74.125.235.61 chatenabled.mail.google.com
+
 74.125.237.5	tbn0.google.com
 74.125.237.5	tbn1.google.com
 74.125.237.5	tbn2.google.com
@@ -352,10 +355,12 @@ ff02::3 ip6-allhosts
 74.125.237.5	chrometophone.appspot.com	
 74.125.237.5	mobilemaps.clients.google.com	
 74.125.237.5	gg.google.com	
-74.125.237.5	www.googleapis.com	
-74.125.128.125	talk.google.com	
-74.125.128.188	mtalk.google.com
-74.125.128.188 mobile-gtalk.l.google.com
+74.125.237.5	www.googleapis.com
+	
+74.125.135.125	talk.google.com
+74.125.135.125	talk.l.google.com	
+74.125.135.188	mtalk.google.com
+74.125.135.188 mobile-gtalk.l.google.com
 ##优酷
 0.0.0.0 stat.youku.com
 0.0.0.0 static.lstat.youku.com

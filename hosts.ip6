@@ -6,7 +6,7 @@
 202.117.120.246 linux4
 2001:250:1006:1208::246 linux6
 202.117.120.247 acm4
-210.27.9.72 e501
+210.27.9.111 e501
 192.168.1.1 router
 192.168.1.1 router6
 
@@ -18,10 +18,10 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 2001:da8:d800:95::110 debian.ustc.edu.cn
-2404:6800:8002::8d mfstuidao.appspot.com
-2404:6800:8002::8d mfsdaili.appspot.com
-2404:6800:8002::8d mfstuiter.appspot.com
-2404:6800:8002::8d mfs6174-blog.appspot.com
+2607:f8b0:400e:c01::8d mfstuidao.appspot.com
+2607:f8b0:400e:c01::8d mfsdaili.appspot.com
+2607:f8b0:400e:c01::8d mfstuiter.appspot.com
+2607:f8b0:400e:c01::8d mfs6174-blog.appspot.com
 2404:6800:8005::84 www-ig-opensocial.googleusercontent.com
 2404:6800:8005::52 gtap.googlecode.com
 2404:6800:8005::52 appengine.googlecode.com

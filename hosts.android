@@ -11,7 +11,7 @@
 219.245.77.178 hpc
 202.117.120.246 linux4
 202.117.120.247 acm4
-210.27.9.172 e501
+210.27.9.44 e501
 
 #Android & Google Services START
 74.125.235.130 android-china.l.google.com
@@ -349,8 +349,8 @@
 	
 74.125.135.125	talk.google.com
 74.125.135.125	talk.l.google.com	
-74.125.135.188	mtalk.google.com
-74.125.135.188 mobile-gtalk.l.google.com	
+74.125.128.188	mtalk.google.com
+74.125.128.188 mobile-gtalk.l.google.com	
 
 		
 74.125.237.5	o-o.preferred.sjc07s11.v1.lscache1.c.android.clients.google.com	

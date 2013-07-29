@@ -122,8 +122,6 @@ ff02::3 ip6-allhosts
 131.203.3.159	reader.google.com
 131.203.3.159	sites.google.com
 
-#74.125.235.36	talkgadget.google.com
-
 
 131.203.3.159	tbn0.google.com
 131.203.3.159	tbn1.google.com
@@ -389,10 +387,8 @@ ff02::3 ip6-allhosts
 131.203.3.159	gg.google.com	
 131.203.3.159	www.googleapis.com
 	
-74.125.31.125	talk.google.com
-74.125.31.125	talk.l.google.com
-#203.208.46.146 talk.google.com
-#203.208.46.146 talk.l.google.com
+173.194.78.125 talk.google.com
+173.194.78.125 talk.l.google.com #the same as 74.125.24.x
 74.125.24.188	mtalk.google.com
 74.125.24.188 mobile-gtalk.l.google.com
 

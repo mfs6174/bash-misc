@@ -59,7 +59,7 @@ ff02::3 ip6-allhosts
 74.125.235.130 android.com
 
 74.125.24.84	accounts.google.com
-74.125.130.84	accounts.youtube.com
+74.125.24.84	accounts.youtube.com
 131.203.3.159	appengine.google.com
 131.203.3.159	bks0.books.google.com
 131.203.3.159	bks1.books.google.com
@@ -389,12 +389,14 @@ ff02::3 ip6-allhosts
 	
 173.194.78.125 talk.google.com
 173.194.78.125 talk.l.google.com #the same as 74.125.24.x
+173.194.78.125 chatenabled.mail.google.com
+173.194.78.125 talkx.l.google.com
+173.194.78.125 talkx.l.google.com
 74.125.24.188	mtalk.google.com
 74.125.24.188 mobile-gtalk.l.google.com
 
-#74.125.128.125 talkx.l.google.com
-74.125.31.125 talkx.l.google.com
-74.125.31.125 chatenabled.mail.google.com
+
+
 
 ##优酷
 0.0.0.0 stat.youku.com

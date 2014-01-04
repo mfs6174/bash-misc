@@ -32,12 +32,13 @@ ff02::3 ip6-allhosts
 131.203.3.159 p2-dzxbucs2ni4eq-exuecdsggy2fguhm-if-v6exp3-v4.metric.gstatic.com
 131.203.3.159 hangouts.google.com
 131.203.3.159 talkgadget.google.com
-74.125.237.99 safebrowsing.clients.google.com
-74.125.237.99 clients.l.google.com
-74.125.237.99 clients-china.l.google.com
+131.203.3.159 safebrowsing.clients.google.com
+131.203.3.159 clients.l.google.com
+131.203.3.159 clients-china.l.google.com
 131.203.3.159 plus.l.google.com
 131.203.3.159 plus-china.l.google.com
 131.203.3.159 apis.google.com
+131.203.3.159 groups.google.com
 
 74.125.31.189 0.drive.google.com
 74.125.31.189 1.drive.google.com

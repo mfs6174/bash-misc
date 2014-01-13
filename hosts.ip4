@@ -39,6 +39,12 @@ ff02::3 ip6-allhosts
 131.203.3.159 plus-china.l.google.com
 131.203.3.159 apis.google.com
 131.203.3.159 groups.google.com
+74.125.24.95 fonts.googleapis.com
+74.125.24.95 googleapis.l.google.com
+74.125.24.95 googleapis.google.com
+74.125.24.95 translate.googleapis.com
+74.125.24.95 googleapis.l.google.com
+
 
 74.125.31.189 0.drive.google.com
 74.125.31.189 1.drive.google.com
@@ -50,6 +56,12 @@ ff02::3 ip6-allhosts
 212.59.4.118 www.youtube-nocookie.com
 212.59.4.118 www.youtube.com
 212.59.4.118 ytimg.l.google.com
+131.203.3.159 s.ytimg.com
+131.203.3.159 ytstatic.l.google.com
+131.203.3.159 i1.ytimg.com
+131.203.3.159 i2.ytimg.com
+131.203.3.159 i3.ytimg.com
+131.203.3.159 i4.ytimg.com
 
 74.125.24.141 mfstuiter.appspot.com
 74.125.24.141 mfstuidao.appspot.com
@@ -61,12 +73,12 @@ ff02::3 ip6-allhosts
 74.125.129.108 gmail-imap.l.google.com
 
 #Android & Google Services START
-74.125.235.130 android-china.l.google.com
-74.125.235.130 www.android.com #www3.l.google.com
-74.125.235.130 android.com
+131.203.3.159 android-china.l.google.com
+131.203.3.159 www.android.com #www3.l.google.com
+131.203.3.159 android.com
 
 131.203.3.159	accounts.google.com
-74.125.130.84	accounts.youtube.com
+131.203.3.159	accounts.youtube.com
 131.203.3.159	appengine.google.com
 131.203.3.159	bks0.books.google.com
 131.203.3.159	bks1.books.google.com

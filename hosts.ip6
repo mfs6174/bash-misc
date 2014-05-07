@@ -30,6 +30,15 @@ ff02::3 ip6-allhosts
 #131.203.3.159
 #2001:da8:d800:95::110 debian.ustc.edu.cn
 
+2400:da00::dbf:0:6666 p.baidupcs.com
+2400:da00::dbf:0:6666 nj.baidupcs.com
+2400:da00::dbf:0:6666 qd.baidupcs.com
+2400:da00::dbf:0:6666 cdn.baidupcs.com
+2400:da00::dbf:0:6666 hot.baidupcs.com
+2400:da00::dbf:0:6666 www.baidupcs.com
+2400:da00::dbf:0:6666 hot.cdn.baidupcs.com
+2400:da00::dbf:0:6666 d.pcs.baidu.com
+
 74.125.2.111	o-o.preferred.sjc07s11.v8.lscache1.c.android.clients.google.com	
 74.125.2.111 o-o.preferred.telkomsel-cgk1.v8.lscache8.c.youtube.com
 74.125.2.111 telkomsel-cgk1.v8.lscache8.c.youtube.com
@@ -85,7 +94,7 @@ ff02::3 ip6-allhosts
 2404:6800:4005:803::101f android.com
 
 2404:6800:4005:803::101f	accounts.google.com
-2404:6800:4005:803::101f	accounts.youtube.com
+2404:6800:4005:800::1003	accounts.youtube.com
 2404:6800:4005:803::101f	appengine.google.com
 2404:6800:4005:803::101f	bks0.books.google.com
 2404:6800:4005:803::101f	bks1.books.google.com
@@ -114,8 +123,8 @@ ff02::3 ip6-allhosts
 2404:6800:4005:803::101f	clients5.google.com
 2404:6800:4005:803::101f	clients6.google.com
 2404:6800:4005:803::101f	clients7.google.com
-2404:6800:4005:803::101f	code.google.com
-2404:6800:4005:803::101f	code.l.google.com
+2404:6800:4005:800::1005	code.google.com
+2404:6800:4005:800::1005	code.l.google.com
 2404:6800:4005:803::101f	dl.google.com
 2404:6800:4005:803::101f	ditu.google.com
 2404:6800:4005:803::101f	docs.google.com
@@ -413,16 +422,16 @@ ff02::3 ip6-allhosts
 2404:6800:4005:803::101f	gg.google.com	
 2404:6800:4005:803::101f	www.googleapis.com
 	
-74.125.128.125 talk.google.com
-74.125.128.125talk.l.google.com #the same as 74.125.24.x
+173.194.78.125 talk.google.com
+173.194.78.125 talk.l.google.com #the same as 74.125.24.x
 #74.125.31.125 talk.google.com
 #74.125.31.125 talk.l.google.com
 74.125.24.188	mtalk.google.com
 74.125.24.188 mobile-gtalk.l.google.com
 
-74.125.128.125 talkx.l.google.com
+173.194.78.125 talkx.l.google.com
 #74.125.31.125 talkx.l.google.com
-74.125.31.125 chatenabled.mail.google.com
+173.194.78.125 chatenabled.mail.google.com
 
 ##\D3ſ\E1
 0.0.0.0 stat.youku.com

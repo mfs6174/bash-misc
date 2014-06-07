@@ -45,6 +45,8 @@ ff02::3 ip6-allhosts
 74.125.2.111 turktelekom-sof1.v8.lscache8.c.youtube.com
 74.125.2.111 v8.lscache8.c.youtube.com
 
+2404:6800:4005:803::101f scholar.l.google.com
+2404:6800:4005:803::101f scholar.google.com
 2404:6800:4005:803::101f p2-dzxbucs2ni4eq-exuecdsggy2fguhm-if-v6exp3-v4.metric.gstatic.com
 2404:6800:4005:803::101f hangouts.google.com
 2800:3f0:4004:800::1008 talkgadget.google.com

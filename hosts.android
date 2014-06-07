@@ -2,16 +2,19 @@
 
 #mfs6174's
 
-74.125.24.141 mfstuiter.appspot.com
-74.125.24.141 mfstuidao.appspot.com
-74.125.24.141 mfsdaili.appspot.com
-74.125.24.141 mfs6174-blog.appspot.com
+131.203.3.159 mfstuiter.appspot.com
+131.203.3.159 mfstuidao.appspot.com
+131.203.3.159 mfsdaili.appspot.com
+#2a00:1450:4010:c04::8d mfsdaili.appspot.com
+131.203.3.159 mfs6174-blog.appspot.com
 
 210.27.11.89 acm
 219.245.77.178 hpc
 202.117.120.246 linux4
 202.117.120.247 acm4
 210.27.9.32 e501
+166.111.71.123 em9209
+166.111.68.30 cscg
 
 131.203.3.159	o-o.preferred.sjc07s11.v8.lscache1.c.android.clients.google.com	
 131.203.3.159 o-o.preferred.telkomsel-cgk1.v8.lscache8.c.youtube.com
@@ -21,8 +24,10 @@
 
 131.203.3.159 clients.l.google.com
 131.203.3.159 clients-china.l.google.com
-131.203.3.177 picasaweb.google.com
 
+131.203.3.177 picasaweb.google.com
+131.203.3.159 scholar.l.google.com
+131.203.3.159 scholar.google.com
 131.203.3.159 hangouts.google.com
 212.59.4.98 talkgadget.google.com
 74.125.129.108 imap.gmail.com
@@ -387,11 +392,12 @@
 131.203.3.159	mobilemaps.clients.google.com	
 131.203.3.159	gg.google.com	
 	
-74.125.31.125	talk.google.com
-74.125.31.125	talk.l.google.com	
+173.194.78.125	talk.google.com
+173.194.78.125	talk.l.google.com	
 74.125.24.188	mtalk.google.com
 74.125.24.188 mobile-gtalk.l.google.com	
-
+#74.125.128.188	mtalk.google.com
+#74.125.128.188 mobile-gtalk.l.google.com	
 		
 131.203.3.159	o-o.preferred.sjc07s11.v1.lscache1.c.android.clients.google.com	
 131.203.3.159	o-o.preferred.sjc07s11.v2.lscache1.c.android.clients.google.com	
